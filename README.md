@@ -13,8 +13,8 @@
 
 <h3 align="left">Conectar con yo:</h3>
 <p align="izquierda">
-<a href="https://dev.to/https://s7eeven.github.io/sevencode/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://s7eeven.github.io/sevencode/" height="30" width=" 40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/steeven-orbe-79653a14a" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https: //www.linkedin.com/en/steeven-orbe-79653a14a" height="30" width="40" /></a>
+<a href="https://s7eeven.github.io/SevenCode/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://s7eeven.github.io/sevencode/" height="30" width=" 40" /></a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
